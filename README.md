@@ -232,7 +232,4 @@ Those are the last parts I did and I simply follow the instructions from instruc
 
 ## Conclusion
 
-Making a game from scratch helped me so much in learning Unity. It was not an easy process at the beginning, but I love every part of it (I still remember how joyful I was when I made my Player move and jump for the 1st time). Here are two next things I am going to learn:
-+ Skeletal animation (which will help me create many creative animations for my characters)
-+ Drop and Drag weapons in Inventory. Basically, like this: [How to Equip Weapons and Items in Unity (Drag Drop, Inventory)
-](https://youtu.be/isAmoM3RPEI/ "Named link title")
+Making a game from scratch is fun.
