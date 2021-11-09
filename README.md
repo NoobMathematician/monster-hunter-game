@@ -1,5 +1,5 @@
 # monster-hunter-game
-My 1st game on Github, more coming ...
+My game project on Github, more coming ...
 
 ## About this project:
 + You can check out the game demo here:
