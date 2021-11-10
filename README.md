@@ -5,13 +5,6 @@ My game project on Github, more coming ...
 + You can check out the game demo here:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/W2hMtJkdQ08/0.jpg)](https://www.youtube.com/watch?v=W2hMtJkdQ08)
 
-+ I make this game in my free time to learn Unity.
-#### In the *Assets* folder: 
-+ *2D Platformer Tileset*: I downloaded it from Unity store so I had tileset/sprites to make the game. 
-+ *AstarPathfindingProject*: this is a Pathfinding package I downloaded from [A* Pathfinding Project](https://arongranberg.com/astar/ "Named link title") . From this package, I attached the *Pathfinder* script to a game object (named FindPath) and the *Seeker* script to a game object BabyBat (the small bat). Those two scripts will be used to make an AI (*BatAI* script) for my enemy (the small bat) automatically locating and chasing the Player.   
-+ *Animations*, *Prefabs* , *Scenes*, and *Scripts* : I made all animations, prefabs, scenes, and scripts inside those folders. 
-## My process: 
-
 ### 1. Make the Player movement
 
 I implemented Player movement with Rigidbody. The basic forward and backward movement code is:
@@ -53,7 +46,7 @@ Here I give the Arrow game object a *Tag*, which is important to dectect collisi
 
 #### 3.1 Let the small bat automatically chasing the Player
 
-This small bat is really interesting. It can automatically locate and fly to the Player and do damage. I found this way of doing it from [Brackeys](https://youtu.be/jvtFUfJ6CP8/ "Named link title"):
+This small bat is really interesting. It can automatically locate and fly to the Player and do damage. 
 
 After attaching the *Pathfinder* script to the game object *FindPath* and the *Seeker* script to the game object *BabyBat* (the small bat), we can use a very powerful namespace *Pathfinding*  which contains classes *seeker* and *Path*.
 
