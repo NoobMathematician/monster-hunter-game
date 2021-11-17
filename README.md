@@ -220,9 +220,4 @@ void OnCollisionEnter2D(Collision2D target) {
 
 ```
 ### 7. Create game levels, camera follow script, basic UI and main menu
-
-Those are the last parts I did and I simply follow the instructions from instructors on Youtube. While following their instruction, I always make sure that I understand the process.
-
-## Conclusion
-
-Making a game from scratch is fun.
+Make main menu and code game cameras.
